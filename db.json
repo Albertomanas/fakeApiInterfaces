@@ -2,102 +2,162 @@
     "characters": [
       {
         "id": 1,
-        "name": "Hisoka Morow",
-        "motto": "Right now, I'm letting you live. And I'll continue to keep you alive... until you've grown enough to become worth killing.",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/b/b2/Hisoka1.jpeg"
+        "name": "Osamodas",
+        "motto": "¡Los Osamodas son Invocadores natos! Tienen el poder de invocar criaturas y resultan ser excelentes domadores.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/osamodas_f.png"
       },
       {
         "id": 2,
-        "name": "Killua Zoldyck",
-        "motto": "Electricity doesn't hurt me. When I said it doesn't hurt me, it means I can bare it. None the less, I feel the pain. That's why I'm a bit annoyed...",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/8/83/BoFIV_Ryu_Artwork.webp5"
+        "name": "Aniripsa",
+        "motto": "Los aniripsas son sanadores que curan con una simple palabra. Utilizan el poder de las palabras para sanar a sus aliados y, a veces, también para herir a sus enemigos. Algunos aniripsas se han convertido, incluso, en expertos del verbo y exploradores de idiomas olvidados.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/aniripsa_m.png"
       },
       {
         "id": 3,
-        "name": "Kurapika",
-        "motto": "I do not fear death. I fear only that my rage will fade over time.",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/1/13/CuddlesProfilePictureImageZ.png"
+        "name": "Sadida",
+        "motto": "El Sadida o El Zapato de Sadida son una curiosa tribu pacífica y amante de la naturaleza de las criaturas nativas en el mundo de Dofus. Aunque son de naturaleza pacífica, en la batalla, el Sadida puede ser un poderoso aliado.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/sadida-f.png"
       },
       {
         "id": 4,
-        "name": "Shoto Todoroki",
-        "motto": "If you wanna stop this, then stand up! Because I've just got one thing to say to you! Never forget who you want to become!",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/a/ac/Shoto_Todoroki%2C_the_Son_of_Endeavor.png"
+        "name": "Tymador",
+        "motto": "¡Los tymadores son grandes estrategas manipuladores de bombas! Como todo el mundo sabe, utilizan la pólvora como nadie y, cuando se trata de hacer explotar a sus enemigos, no se hacen de rogar. Si alguna vez pasas por un campo de minas y notas chispas, ¡puedes estar seguro de que hay un tymador cerca!.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/tymador_m.png"
       },
       {
         "id": 5,
-        "name": "Saitama",
-        "motto": "100 push-ups, 100 sit-ups, 100 squats, and a 10km run EVERY SINGLE DAY!!!",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/2/27/Saitama.png"
+        "name": "Xelor",
+        "motto": "Los xelors son magos que dominan el tiempo y todas las mecánicas que dan la hora: carrillones, relojes de pared y péndulos les obedecen a la perfección. Por lo tanto, los xelors juegan con el tiempo para ralentizar a un enemigo o teletransportarse al lugar que les apetece.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/xelor-f.png"
       },
       {
         "id": 6,
-        "name": "Eijiro Kirishima",
-        "motto": "When I heard that they were after my buddy...I couldn't do anything!! I didn't do anything!! If I don't act now...forget being a hero, I'm not even a man!",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/7/7b/Eijiro_Kirishima%2C_the_Vigor_Hero.png"
+        "name": "Zurcarák",
+        "motto": "Los zurcaráks son guerreros jugadores que se meten en aquellos lugares donde pueden ganar mucho o perderlo todo... Un buen zurcarák juega sin parar, por todo y por nada. Pero ojo, se toma el juego tan en serio que puede, incluso, que se juegue el pellejo en un lanzamiento de dados para ganar el combate... ",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/zurkarak-m.png"
       },
       {
         "id": 7,
-        "name": "Shouta Aizawa",
-        "motto": "I'm sorry to tell you... that for the next three years... U.A. will run you through the wringer. That's \"Plus Ultra\". Use your strength to overcome it all. So bring it",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/a/ac/Aizawa.png"
+        "name": "Yopuka",
+        "motto": "¡Los yopukas son unos intrépidos y temerarios guerreros! Lo cierto es que los yopukas saben hacer hablar a sus armas. De hecho, meterse en una pelea al menos una vez al día es para ellos señal de buena salud. Su impetuoso temperamento hace que sean unos maravillosos paladinos... pero, en ciertas ocasiones, ¡son también unas auténticas calamidades con patas!",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/yopuka-m.png"
       },
       {
         "id": 8,
-        "name": "Izuku Midoriya",
-        "motto": "I'm not gonna be your worthless punching bag Deku forever... Kacchan. I'm... I'm the Deku who always does his best!",
-        "img": "https://static.wikia.nocookie.net/characterprofile/images/9/98/Izuku_midoriya_hero_costume_gamma_action_pose.png"
+        "name": "Ocra",
+        "motto": "Los ocras son arqueros tan orgullosos como precisos. Son aliados de gran valor contra los adeptos del cuerpo a cuerpo. Aun a distancia, saben alcanzar con sus afilados proyectiles el orificio más minúsculo que el enemigo deje sin vigilancia.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/ocra-f.png"
+      },
+      {
+        "id": 9,
+        "name": "Feca",
+        "motto": "Los fecas son leales protectores, siempre a la defensiva. Son muy apreciados por los grupos de aventureros gracias a sus armaduras elementales y a su capacidad para encajar los golpes. También son maestros en el arte de las marcas mágicas: ¡cuando hay barullo, los fecas sacan los glifos!",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/feca-f.png"
+      },
+      {
+        "id": 10,
+        "name": "Sacrogrito",
+        "motto": "¡Los sacrógritos son berserkers cuya fuerza aumenta cuando reciben golpes! Puesto que no temen ni al dolor ni a las heridas, suelen estar en primera línea, ¡preparados para el combate! El sacrógrito es el compañero ideal para pasar tus largas noches luchando...",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/sacro-m.png"
+      },
+      {
+        "id": 11,
+        "name": "Anutrof",
+        "motto": "Los anutrofs son buscatesoros ávidos de kamas que, a pesar de su avanzada edad, corren como dragopavos en cuanto ven un cofre lleno. Son expertos en el arte de ralentizar a sus enemigos, a quienes pueden hostigar antes de noquearlos a palazo limpio una vez llegado el momento.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/enu-m.png"
+      },
+      {
+        "id": 12,
+        "name": "Sram",
+        "motto": "Los srams son unos asesinos a los que les encantan las bolsas, y más aún si son muy pesadas. La vida de un sram podría resumirse en las siguientes acciones: rasgar túnicas, hurgar bolsillos (pero con mucho tacto), palpar joyas muy personales y poner trampas mortales.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/sram_f.png"
+      },
+      {
+        "id": 12,
+        "name": "Pandawa",
+        "motto": "¡Los pandawas son guerreros adeptos a las artes marciales que saben hacer auténticas locuras con sus cuerpos! Y hasta pueden hacerlas con el cuerpo de otros... Al pandawa le gusta levantar pesos: lleva a sus aliados sobre los hombros para protegerlos mejor,¡y a sus enemigos los lanza contra el decorado, antes de festejar su victoria con una buena jarra de leche de bambú!",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/panda-m.png"
       }
     ],
   
     "personatges": [
-      {
+            {
         "id": 1,
-        "name": "Tomeu Scracker",
-        "motto": "Right now, I'm letting you live. And I'll continue to keep you alive... until you've grown enough to become worth killing.",
-        "img": "https://raw.githubusercontent.com/classicoman2/fakeRESTserver/master/assets/personatge1.png"
+        "name": "Osamodas",
+        "motto": "¡Los Osamodas son Invocadores natos! Tienen el poder de invocar criaturas y resultan ser excelentes domadores.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/osamodas_f.png"
       },
       {
         "id": 2,
-        "name": "Miki Barcolicus",
-        "motto": "Electricity doesn't hurt me. When I said it doesn't hurt me, it means I can bare it. None the less, I feel the pain. That's why I'm a bit annoyed...",
-        "img": "https://raw.githubusercontent.com/classicoman2/fakeRESTserver/master/assets/personatge2.png"
+        "name": "Aniripsa",
+        "motto": "Los aniripsas son sanadores que curan con una simple palabra. Utilizan el poder de las palabras para sanar a sus aliados y, a veces, también para herir a sus enemigos. Algunos aniripsas se han convertido, incluso, en expertos del verbo y exploradores de idiomas olvidados.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/aniripsa_m.png"
       },
       {
         "id": 3,
-        "name": "Tonina Constructor",
-        "motto": "I do not fear death. I fear only that my rage will fade over time.",
-        "img": "https://raw.githubusercontent.com/classicoman2/fakeRESTserver/master/assets/personatge3.png"
+        "name": "Sadida",
+        "motto": "El Sadida o El Zapato de Sadida son una curiosa tribu pacífica y amante de la naturaleza de las criaturas nativas en el mundo de Dofus. Aunque son de naturaleza pacífica, en la batalla, el Sadida puede ser un poderoso aliado.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/sadida-f.png"
       },
       {
         "id": 4,
-        "name": "Olivia Riudavets",
-        "motto": "If you wanna stop this, then stand up! Because I've just got one thing to say to you! Never forget who you want to become!",
-        "img": "https://raw.githubusercontent.com/classicoman2/fakeRESTserver/master/assets/personatge4.png"
+        "name": "Tymador",
+        "motto": "¡Los tymadores son grandes estrategas manipuladores de bombas! Como todo el mundo sabe, utilizan la pólvora como nadie y, cuando se trata de hacer explotar a sus enemigos, no se hacen de rogar. Si alguna vez pasas por un campo de minas y notas chispas, ¡puedes estar seguro de que hay un tymador cerca!.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/tymador_m.png"
       },
       {
         "id": 5,
-        "name": "John Kuhn Tagomago",
-        "motto": "100 push-ups, 100 sit-ups, 100 squats, and a 10km run EVERY SINGLE DAY!!!",
-        "img": "https://raw.githubusercontent.com/classicoman2/fakeRESTserver/master/assets/personatge5.png"
+        "name": "Xelor",
+        "motto": "Los xelors son magos que dominan el tiempo y todas las mecánicas que dan la hora: carrillones, relojes de pared y péndulos les obedecen a la perfección. Por lo tanto, los xelors juegan con el tiempo para ralentizar a un enemigo o teletransportarse al lugar que les apetece.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/xelor-f.png"
       },
       {
         "id": 6,
-        "name": "Vincent Van der Grosse",
-        "motto": "When I heard that they were after my buddy...I couldn't do anything!! I didn't do anything!! If I don't act now...forget being a hero, I'm not even a man!",
-        "img": "https://raw.githubusercontent.com/classicoman2/fakeRESTserver/master/assets/personatge6.png"
+        "name": "Zurcarák",
+        "motto": "Los zurcaráks son guerreros jugadores que se meten en aquellos lugares donde pueden ganar mucho o perderlo todo... Un buen zurcarák juega sin parar, por todo y por nada. Pero ojo, se toma el juego tan en serio que puede, incluso, que se juegue el pellejo en un lanzamiento de dados para ganar el combate... ",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/zurkarak-m.png"
       },
       {
         "id": 7,
-        "name": "Tom Slaughterhouse",
-        "motto": "I'm sorry to tell you... that for the next three years... U.A. will run you through the wringer. Use your strength to overcome it all. So bring it",
-        "img": "https://raw.githubusercontent.com/classicoman2/fakeRESTserver/master/assets/personatge7.png"
+        "name": "Yopuka",
+        "motto": "¡Los yopukas son unos intrépidos y temerarios guerreros! Lo cierto es que los yopukas saben hacer hablar a sus armas. De hecho, meterse en una pelea al menos una vez al día es para ellos señal de buena salud. Su impetuoso temperamento hace que sean unos maravillosos paladinos... pero, en ciertas ocasiones, ¡son también unas auténticas calamidades con patas!",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/yopuka-m.png"
       },
       {
         "id": 8,
-        "name": "Mindy Sanostren",
-        "motto": "I'm not gonna be your worthless punching bag Deku forever... Kacchan. I'm... I'm the Deku who always does his best!",
-        "img": "https://raw.githubusercontent.com/classicoman2/fakeRESTserver/master/assets/personatge8.png"
+        "name": "Ocra",
+        "motto": "Los ocras son arqueros tan orgullosos como precisos. Son aliados de gran valor contra los adeptos del cuerpo a cuerpo. Aun a distancia, saben alcanzar con sus afilados proyectiles el orificio más minúsculo que el enemigo deje sin vigilancia.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/ocra-f.png"
+      },
+      {
+        "id": 9,
+        "name": "Feca",
+        "motto": "Los fecas son leales protectores, siempre a la defensiva. Son muy apreciados por los grupos de aventureros gracias a sus armaduras elementales y a su capacidad para encajar los golpes. También son maestros en el arte de las marcas mágicas: ¡cuando hay barullo, los fecas sacan los glifos!",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/feca-f.png"
+      },
+      {
+        "id": 10,
+        "name": "Sacrogrito",
+        "motto": "¡Los sacrógritos son berserkers cuya fuerza aumenta cuando reciben golpes! Puesto que no temen ni al dolor ni a las heridas, suelen estar en primera línea, ¡preparados para el combate! El sacrógrito es el compañero ideal para pasar tus largas noches luchando...",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/sacro-m.png"
+      },
+      {
+        "id": 11,
+        "name": "Anutrof",
+        "motto": "Los anutrofs son buscatesoros ávidos de kamas que, a pesar de su avanzada edad, corren como dragopavos en cuanto ven un cofre lleno. Son expertos en el arte de ralentizar a sus enemigos, a quienes pueden hostigar antes de noquearlos a palazo limpio una vez llegado el momento.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/enu-m.png"
+      },
+      {
+        "id": 12,
+        "name": "Sram",
+        "motto": "Los srams son unos asesinos a los que les encantan las bolsas, y más aún si son muy pesadas. La vida de un sram podría resumirse en las siguientes acciones: rasgar túnicas, hurgar bolsillos (pero con mucho tacto), palpar joyas muy personales y poner trampas mortales.",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/sram_f.png"
+      },
+      {
+        "id": 12,
+        "name": "Pandawa",
+        "motto": "¡Los pandawas son guerreros adeptos a las artes marciales que saben hacer auténticas locuras con sus cuerpos! Y hasta pueden hacerlas con el cuerpo de otros... Al pandawa le gusta levantar pesos: lleva a sus aliados sobre los hombros para protegerlos mejor,¡y a sus enemigos los lanza contra el decorado, antes de festejar su victoria con una buena jarra de leche de bambú!",
+        "img": "https://raw.githubusercontent.com/Albertomanas/fakeApiInterfaces/main/img/panda-m.png"
       }
     ]
   }
