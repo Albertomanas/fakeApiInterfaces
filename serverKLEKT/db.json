@@ -1,0 +1,37 @@
+{
+    "items": [
+      {
+        "date": "2020-09-12",
+        "productName": "Yeezy Sneakers",
+        "productType": "Sneakers",
+        "brands": "Yeezy",
+        "availability": true,
+        "sizeType": "Women",
+        "size": "US9.5",
+        "price": 351,
+        "img": " https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fstorage.googleapis.com%2Fkt-apiv2-default%2Feab44d36-80d0-4304-91e8-b4a7c500939c..png&w=1080&q=75"
+      },
+      {
+        "date": "2020-09-15",
+        "productName": "Air Jordan Unisex Blue",
+        "productType": "Sneakers",
+        "brands": "Air Jordan",
+        "availability": true,
+        "sizeType": "Unisex",
+        "size": "M",
+        "price": 761,
+        "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FSmLtmNLcSsqdhkByLBMf&w=1080&q=75"
+      },
+      {
+        "date": "2020-12-15",
+        "productName": "Air Jordan Unisex Blue",
+        "productType": "Sneakers",
+        "brands": "Air Jordan",
+        "availability": true,
+        "sizeType": "Women",
+        "size": "US6",
+        "price": 761,
+        "img": "https://www.klekt.com/_next/image?url=https%3A%2F%2Fprocess.filestackapi.com%2FAazSisOjUQx2TZJQX0PdNz%2Fresize%3Dheight%3A614%2Cwidth%3A900%2Cfit%3Acrop%2Foutput%3Dcompress%3Atrue%2Cquality%3A60%2Cstrip%3Atrue%2Fauto_image%2Fcache%3Dexpiry%3A31536000%2Fhttps%3A%2F%2Fcdn.filestackcontent.com%2FIo73XslKQUqybCkKPiJK&w=1080&q=75"
+      }
+    ]
+  }
